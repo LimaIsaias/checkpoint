@@ -1,10 +1,15 @@
-# livros-lidos
-
-Artigos , Livros, Publicações, Podcasts ou qualquer outro material que eu me sujeite a ler e achar interessante.
-
+# Checkpoint
+Artigos, Livros, Publicações, Podcasts ou qualquer outro material que eu me sujeite a ler e achar interessante.
+ 
 
 Front-end
 - [Guia Front-End](https://www.casadocodigo.com.br/products/livro-guia-frontend), O caminho das pedras para ser um dev Front-End ,Diego Eis.
+> Definitivamente, este guia não é um livro didático, logo, ele não vai ensinar nada do começo ao fim,
+> nem tão pouco código. Este livro se propõe a mostrar o "caminho das pedras", ditando o que você
+> precisa aprender, mostrando todos os assuntos pertinentes para se tornar um dev front-end e quais os
+> assuntos mais comentados por aí
 
 Back-end
--[Boas Práticas Rest](https://medium.com/trainingcenter/boas-pr%C3%A1ticas-rest-indo-al%C3%A9m-do-c%C3%B3digo-4f1d8875b9ab), Boas práticas REST: indo além do código, Fernando Almeida.
+- [Boas Práticas Rest](https://medium.com/trainingcenter/boas-pr%C3%A1ticas-rest-indo-al%C3%A9m-do-c%C3%B3digo-4f1d8875b9ab), Boas práticas REST: indo além do código, Fernando Almeida.
+> Eu já tinha alguma experiencia com Rest quando li esse artigo, mas o fato é que a maioria dessa experiência foi conquistada tentando e consequentemente errando, uma leitura de 5 minutos que com toda certeza me fez muito bem, quase todo curso e livro de rest vai te introduzir nessas boas práticas, mas a maioria dos desenvolvedores não esperam o livro ou curso daquela tecnologia nova sair pra poder testar e usar em alguns projetos.
+
