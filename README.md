@@ -8,6 +8,9 @@ Front-end
 > nem tão pouco código. Este livro se propõe a mostrar o "caminho das pedras", ditando o que você
 > precisa aprender, mostrando todos os assuntos pertinentes para se tornar um dev front-end e quais os
 > assuntos mais comentados por aí
+- [Interpolation Vs Property Binding in Angular](https://www.codementor.io/adekunleoyaniyi/interpolation-vs-property-binding-in-angular2-eu1tzbyn4)
+> Muito útil para entender as diferenças entre as formas em que o angular trata as ligações
+> uma abordagem mais clara quando se trata de uso de um sobre o outro, em termos de semelhanças , diferenças, segurança e da saída que você recebe.
 
 Back-end
 - [Boas Práticas Rest](https://medium.com/trainingcenter/boas-pr%C3%A1ticas-rest-indo-al%C3%A9m-do-c%C3%B3digo-4f1d8875b9ab), Boas práticas REST: indo além do código, Fernando Almeida.
