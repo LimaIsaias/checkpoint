@@ -19,3 +19,5 @@ Back-end
 - [Boas Práticas Rest](https://medium.com/trainingcenter/boas-pr%C3%A1ticas-rest-indo-al%C3%A9m-do-c%C3%B3digo-4f1d8875b9ab), Boas práticas REST: indo além do código, Fernando Almeida.
 > Eu já tinha alguma experiencia com Rest quando li esse artigo, mas o fato é que a maioria dessa experiência foi conquistada tentando e consequentemente errando, uma leitura de 5 minutos que com toda certeza me fez muito bem, quase todo curso e livro de rest vai te introduzir nessas boas práticas, mas a maioria dos desenvolvedores não esperam o livro ou curso daquela tecnologia nova sair pra poder testar e usar em alguns projetos.
 
+- [O que você deve aprender a se tornar um mestre Yoda em Java](https://levelup.gitconnected.com/what-you-should-learn-to-become-a-master-yoda-in-java-59c69207df78), John Selawsky.
+> A estrada começa escrevendo código todos os dias, praticando e aprendendo um pouco de teoria. O primeiro grande passo é praticar o Java Core. Este passo é uma chave e consiste em vários níveis que são abordados didaticamente no artigo.
